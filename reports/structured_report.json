@@ -1,0 +1,28 @@
+{
+    "metrics": {
+        "total_logs": 3,
+        "level_counts": {
+            "INFO": 1,
+            "ERROR": 1,
+            "WARNING": 1
+        },
+        "error_rate": 0.0
+    },
+    "logs": [
+        [
+            "2025-09-03 12:00:01",
+            "INFO",
+            "User login successful"
+        ],
+        [
+            "2025-09-03 12:05:14",
+            "ERROR",
+            "Failed login attempt"
+        ],
+        [
+            "2025-09-03 12:10:45",
+            "WARNING",
+            "Disk space low"
+        ]
+    ]
+}

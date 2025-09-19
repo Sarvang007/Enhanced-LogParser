@@ -1,0 +1,51 @@
+2025-09-04 09:00:01 INFO User admin logged in successfully
+2025-09-04 09:02:15 WARNING Disk space usage at 75%
+2025-09-04 09:05:22 ERROR Failed login attempt for user root
+2025-09-04 09:07:33 INFO Scheduled backup started
+2025-09-04 09:10:44 INFO Scheduled backup completed
+2025-09-04 09:15:01 ERROR Failed login attempt for user guest
+2025-09-04 09:20:17 WARNING CPU usage reached 85%
+2025-09-04 09:25:45 INFO User john logged out
+2025-09-04 09:28:59 INFO File /etc/passwd accessed
+2025-09-04 09:32:14 ERROR Application crashed: serviceX
+2025-09-04 09:35:28 INFO Service serviceX restarted
+2025-09-04 09:40:43 INFO User alice logged in
+2025-09-04 09:45:12 WARNING High memory consumption detected
+2025-09-04 09:50:25 INFO User alice executed command: ls -la
+2025-09-04 09:55:37 ERROR Database connection timeout
+2025-09-04 10:00:00 INFO System health check passed
+2025-09-04 10:05:11 INFO File upload completed: report.pdf
+2025-09-04 10:10:26 WARNING Network latency > 200ms
+2025-09-04 10:15:39 INFO User bob logged in
+2025-09-04 10:20:42 INFO User bob changed password
+2025-09-04 10:25:59 ERROR Failed login attempt for user admin
+2025-09-04 10:30:13 INFO User guest logged in
+2025-09-04 10:35:26 WARNING Disk space usage at 85%
+2025-09-04 10:40:40 INFO File /var/log/auth.log rotated
+2025-09-04 10:45:54 INFO User bob logged out
+2025-09-04 10:50:12 ERROR Failed login attempt for user guest
+2025-09-04 10:55:27 INFO User alice uploaded file: data.csv
+2025-09-04 11:00:33 WARNING Unusual outbound traffic detected
+2025-09-04 11:05:48 INFO User admin logged in
+2025-09-04 11:10:55 INFO User admin executed command: whoami
+2025-09-04 11:15:07 ERROR Permission denied while accessing /root
+2025-09-04 11:20:23 INFO Service apache restarted
+2025-09-04 11:25:37 WARNING Firewall rule modified
+2025-09-04 11:30:49 INFO User guest logged out
+2025-09-04 11:35:55 ERROR Multiple failed login attempts detected for user root
+2025-09-04 11:40:10 INFO User root logged in successfully
+2025-09-04 11:45:24 WARNING High CPU usage: 95%
+2025-09-04 11:50:30 INFO File download completed: patch.exe
+2025-09-04 11:55:44 ERROR Malware signature detected in patch.exe
+2025-09-04 12:00:00 INFO Antivirus scan completed
+2025-09-04 12:05:16 INFO User john added a new SSH key
+2025-09-04 12:10:28 WARNING SSH login from unusual IP 192.168.1.55
+2025-09-04 12:15:33 ERROR Brute-force attempt detected on SSH port
+2025-09-04 12:20:45 INFO SSH login successful for user admin
+2025-09-04 12:25:59 INFO User admin executed command: cat /etc/shadow
+2025-09-04 12:30:15 WARNING Large file transfer detected
+2025-09-04 12:35:29 INFO File transfer completed: dump.sql
+2025-09-04 12:40:41 ERROR Database dump exfiltration suspected
+2025-09-04 12:45:56 INFO Incident response script triggered
+2025-09-04 12:50:10 INFO User alice disabled user guest
+2025-09-04 12:55:22 WARNING Unusual admin privilege escalation attempt

@@ -1,0 +1,6 @@
+📊 Log Analysis Summary
+=========================
+
+Total logs: 3
+Logs by level: {'INFO': 1, 'ERROR': 1, 'WARNING': 1}
+Error rate: 0.0%
