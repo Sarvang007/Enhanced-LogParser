@@ -107,14 +107,15 @@ For real-time log ingestion and dashboard:
 **Sample Log Format(logs/sample.log)**
 
 text
+```
 2025-09-04 19:00 INFO User login successful
 2025-09-04 19:05 ERROR Failed password attempt
 2025-09-04 19:10 WARNING Disk usage 90%
-
+```
 
 📊 **Outputs**
-Reports
 
+Reports
 reports/output.csv: Raw parsed logs.
 reports/summary.txt: Metrics summary (e.g., total logs, error rates).
 reports/structured_report.csv: Structured CSV report.
@@ -124,10 +125,12 @@ reports/realtime_metrics.json: Continuously updated real-time metrics.
 **Example CSV Output (reports/output.csv)**:
 
 text
+```
 Timestamp,Level,Message
 2025-09-04 19:00,INFO,User login successful
 2025-09-04 19:05,ERROR,Failed password attempt
 2025-09-04 19:10,WARNING,Disk usage 90%
+```
 
 **Visualizations**
 Automatically saved in reports/plots/ with timestamps:
@@ -160,8 +163,10 @@ Built with 💻 for SOC teams to stay one step ahead of threats!
 
 
 ### Next Steps
+```
 - If you meant to display this README on GitHub, you can copy the above markdown content into a `README.md` file in your repository's root directory, and GitHub will automatically render it on the repository's main page.
 - If you meant something else by "main screen" (e.g., a local application, a dashboard, or a specific display), please clarify, and I can provide further assistance, such as generating a file, suggesting a visualization, or explaining how to integrate this with a specific platform.
 - If you'd like me to generate a chart based on the sample log data or project progress (e.g., a bar chart of tasks completed per phase), please confirm, and I can create one using the supported chart types.
 
 Let me know how you'd like to proceed!
+```
